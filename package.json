@@ -1,0 +1,11 @@
+{
+  "name": "john",
+  "version": "1.0.0",
+  "description": "firstsession",
+  "main": ".#babysteps.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "johndorsey",
+  "license": "ISC"
+}
